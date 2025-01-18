@@ -1,0 +1,21 @@
+{
+    "name": "ethereum-mint-bot",
+    "version": "1.0.0",
+    "description": "Un bot pour effectuer automatiquement des mints sur Ethereum.",
+    "main": "bot.js",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "keywords": [
+        "ethereum",
+        "bot",
+        "mint",
+        "nft"
+    ],
+    "author": "Votre Nom ou Pseudo",
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "^16.0.3",
+        "web3": "^4.16.0"
+    }
+}
